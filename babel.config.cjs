@@ -15,6 +15,6 @@ module.exports = {
         ignoreBrowserslistConfig: true,
       },
     ],
-    ["@babel/preset-flow"],
+    ["@babel/preset-typescript"],  // Replacing Flow with TypeScript
   ],
 };
